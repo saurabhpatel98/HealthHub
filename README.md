@@ -1,2 +1,7 @@
 # HealthHub
-we will be going to develop one mobile application which Store all the patient required reports and it can be visually accessible from anywhere.Provide sufficient information about all the medicines. Invent personal doctor assistant for patients to cure their minor disease of anywhere etc.
+Implimentation has been done:
+                        
+             1. Login using FireBase Database
+             2. Generate Online Appointment System.
+             3. Doctor Detail Store in mobile.
+             4. Report are store in visual view so,the use can understand in Graphical view.
